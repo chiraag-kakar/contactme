@@ -1,6 +1,6 @@
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/chiraag-kakar/My-Django-Blog/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/chiraag-kakar/contactme/pulls)
 
-					😃Hit that ⭐ button to show some ❤️           
+			😃Hit that ⭐ button to show some ❤️         
 # Contact Me
 A simple contact form built using HTML , CSS , Javascript &amp; G-Script. The collected data is saved in google sheets in real-time.
 
