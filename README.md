@@ -1,9 +1,13 @@
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/chiraag-kakar/My-Django-Blog/pulls)
+
+					😃Hit that ⭐ button to show some ❤️           
 # Contact Me
 A simple contact form built using HTML , CSS , Javascript &amp; G-Script. The collected data is saved in google sheets in real-time.
 
 [View Form](https://chiraag-kakar.github.io/contactme/) | [View Database](https://chiraag-kakar.github.io/viewcontacts/)
 
 ## The Google script associated with the Google sheet is :
+**Note** : Make sure the G-Script Porject name is same as that of the Google Sheet Document. `sheetName` is the name of one sheet and not the entire document.
 
 ```gs
 var sheetName = 'Sheet1'
