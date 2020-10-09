@@ -7,7 +7,7 @@ A simple contact form built using HTML , CSS , Javascript &amp; G-Script. The co
 [View Form](https://chiraag-kakar.github.io/contactme/) | [View Database](https://chiraag-kakar.github.io/viewcontacts/)
 
 ## The Google script associated with the Google sheet is :
-**Note** : Make sure the G-Script Porject name is same as that of the Google Sheet Document. `sheetName` is the name of one sheet and not the entire document.
+**Note** : Make sure the G-Script Project name is same as that of the Google Sheet Document. `sheetName` is the name of one sheet and not the entire document.
 
 ```gs
 var sheetName = 'Sheet1'
